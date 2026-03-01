@@ -17,7 +17,8 @@ A real-time weather application built using Kotlin and Jetpack Compose.
 - MVVM
 
 ## Screenshots
-(Add screenshots here)
+### Search Feature
+![Search](screenshots/screenshot2.png)
 
-## Author
-Akshata K
+### Weather Result
+![Result](screenshots/screenshot1.png)
